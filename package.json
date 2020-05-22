@@ -1,0 +1,37 @@
+{
+  "name": "blackjack",
+  "version": "1.0.0",
+  "description": "BlackJack Casino game",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "BlackJack",
+    "Casino",
+    "Game",
+    "Card",
+    "Game",
+    "21"
+  ],
+  "author": "Aniket Autade",
+  "license": "ISC",
+  "dependencies": {
+    "body-parser": "^1.19.0",
+    "ejs": "^3.1.2",
+    "express": "^4.17.1",
+    "jquery": "^3.5.1",
+    "jsdom": "^16.2.2",
+    "lodash": "^4.17.15",
+    "nodemon": "^2.0.4"
+  },
+  "devDependencies": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/AniketAutade/BlackJack-Game.git"
+  },
+  "bugs": {
+    "url": "https://github.com/AniketAutade/BlackJack-Game/issues"
+  },
+  "homepage": "https://github.com/AniketAutade/BlackJack-Game#readme"
+}
